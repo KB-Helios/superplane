@@ -135,7 +135,7 @@
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.30.1",
     "vite": "^8.1.0",
-    "vitest": "^4.1.9",
+    "vitest": "^4.1.11",
     "web-worker": "^1.5.0"
   },
   "prettier": {
